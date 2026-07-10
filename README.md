@@ -44,6 +44,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0485-max-consecutive-ones](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0485-max-consecutive-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
