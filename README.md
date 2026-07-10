@@ -22,6 +22,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | ------- |
 | [0015-3sum](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Recursion
@@ -46,6 +47,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | [0128-longest-consecutive-sequence](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0485-max-consecutive-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
