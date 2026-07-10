@@ -11,8 +11,13 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
