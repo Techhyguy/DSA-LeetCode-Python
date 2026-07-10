@@ -22,4 +22,12 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
