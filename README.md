@@ -10,6 +10,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | [0073-set-matrix-zeroes](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0485-max-consecutive-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -55,6 +57,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | [0035-search-insert-position](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -64,6 +67,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -79,6 +83,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0268-missing-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -88,4 +93,8 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | ------- |
 | [0053-maximum-subarray](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
