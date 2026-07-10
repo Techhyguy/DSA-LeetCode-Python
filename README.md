@@ -6,6 +6,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0141-linked-list-cycle) |
@@ -29,6 +30,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0033-search-in-rotated-sorted-array) |
