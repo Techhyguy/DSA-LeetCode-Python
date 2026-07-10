@@ -31,6 +31,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | [0033-search-in-rotated-sorted-array](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -54,9 +55,14 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
