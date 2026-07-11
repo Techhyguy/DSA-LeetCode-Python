@@ -10,11 +10,13 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | [0073-set-matrix-zeroes](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
@@ -22,6 +24,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | ------- |
 | [0015-3sum](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0876-middle-of-the-linked-list) |
