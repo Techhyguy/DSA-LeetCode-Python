@@ -16,6 +16,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0142-linked-list-cycle-ii) |
@@ -36,6 +37,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
@@ -93,6 +95,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0268-missing-number) |
