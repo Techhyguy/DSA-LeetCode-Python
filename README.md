@@ -26,6 +26,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0141-linked-list-cycle) |
@@ -106,6 +107,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
@@ -116,6 +118,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
