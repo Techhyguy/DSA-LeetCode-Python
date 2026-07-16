@@ -60,6 +60,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | [0137-single-number-ii](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0189-rotate-array) |
+| [0260-single-number-iii](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0485-max-consecutive-ones) |
@@ -118,6 +119,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | ------- |
 | [0136-single-number](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## String
