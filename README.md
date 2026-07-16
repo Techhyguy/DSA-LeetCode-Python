@@ -115,6 +115,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0268-missing-number) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## String
 |  |
 | ------- |
