@@ -53,6 +53,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | [0053-maximum-subarray](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0128-longest-consecutive-sequence) |
@@ -117,6 +118,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0260-single-number-iii) |
@@ -132,4 +134,8 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
