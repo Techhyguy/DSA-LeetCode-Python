@@ -13,6 +13,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | [0141-linked-list-cycle](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0268-missing-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | [0283-move-zeroes](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0485-max-consecutive-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0268-missing-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,6 +108,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | [0048-rotate-image](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0268-missing-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/3312-sorted-gcd-pair-queries) |
 ## Union-Find
 |  |
 | ------- |
@@ -138,4 +142,20 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0078-subsets) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/3312-sorted-gcd-pair-queries) |
+## Number Theory
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
