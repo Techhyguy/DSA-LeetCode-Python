@@ -66,6 +66,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | [0268-missing-number](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0485-max-consecutive-ones) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
@@ -108,6 +109,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | [0048-rotate-image](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0268-missing-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/3312-sorted-gcd-pair-queries) |
 ## Union-Find
 |  |
@@ -154,6 +156,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
