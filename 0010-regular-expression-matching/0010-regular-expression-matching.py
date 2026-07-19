@@ -1,0 +1,30 @@
+from functools import lru_cache
+
+class Solution:
+    def isMatch(self, s: str, p: str) -> bool:
+
+        @lru_cache(None)
+        def dp(i, j):
+
+            # Pattern finished
+            if j == len(p):
+                return i == len(s)
+
+            first_match = (
+                i < len(s)
+                and
+                (s[i] == p[j] or p[j] == '.')
+            )
+
+            # Next character is '*'
+            if j + 1 < len(p) and p[j + 1] == '*':
+
+                return (
+                    dp(i, j + 2)
+                    or
+                    (first_match and dp(i + 1, j))
+                )
+
+            return first_match and dp(i + 1, j + 1)
+
+        return dp(0, 0)
