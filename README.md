@@ -40,6 +40,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
@@ -119,6 +120,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
@@ -137,6 +139,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | [0005-longest-palindromic-substring](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0010-regular-expression-matching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
