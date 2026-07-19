@@ -107,6 +107,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | ------- |
 | [0002-add-two-numbers](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0268-missing-number) |
