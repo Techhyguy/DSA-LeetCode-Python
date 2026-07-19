@@ -137,6 +137,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | [0005-longest-palindromic-substring](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0008-string-to-integer-atoi) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -162,4 +163,16 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/3312-sorted-gcd-pair-queries) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
