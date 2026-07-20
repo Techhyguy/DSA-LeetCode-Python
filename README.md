@@ -67,6 +67,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | [0268-missing-number](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0485-max-consecutive-ones) |
+| [1260-shift-2d-grid](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/3312-sorted-gcd-pair-queries) |
@@ -97,10 +98,12 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | [0048-rotate-image](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0073-set-matrix-zeroes) |
+| [1260-shift-2d-grid](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0054-spiral-matrix) |
+| [1260-shift-2d-grid](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
