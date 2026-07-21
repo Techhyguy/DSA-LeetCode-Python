@@ -147,6 +147,7 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 | [0008-string-to-integer-atoi](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/0010-regular-expression-matching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -185,4 +186,8 @@ A structured collection of my LeetCode and DSA solutions in Python, organized by
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Techhyguy/DSA-LeetCode-Python/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
